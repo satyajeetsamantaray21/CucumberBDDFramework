@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="PlanIT Test Suite" preserve-order="true" thread-count="1" data-provider-thread-count="4">
+
+    <test name="PlanIT Assessment Tests">
+        <classes>
+            <class name="TestRunners.TechnicalAssessmentTestRunner"/>
+        </classes>
+    </test>
+</suite>
