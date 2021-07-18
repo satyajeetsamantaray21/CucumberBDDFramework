@@ -30,9 +30,5 @@ How to use:
 2. Pass the same tag in the TestRunner file present in  present in src/test/java/TestRunners
 3. Set the thread count in the TestNGFile present in src/main/resources and run the test cases
 
-Contributing and Usage
-Pull requests are welcome. For major changes, please discuss what you would like to change.
-Please make sure to update tests as appropriate.
-
 License
 Selenium is a free (open-source) automated testing framework used to validate web applications across different browsers and platforms
