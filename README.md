@@ -1,9 +1,9 @@
-# Test_Automation
+# PlanIT Jupiter Test
 
 
 Description
 
-This repo is Jupiter Cloud code base built for PLANIT Automation Test Assessment
+This framework is built for PlanIT Automation Test Assessment
 
 This project uses this framework jar dependency which is built on top of 
 . Testng as test framework 
