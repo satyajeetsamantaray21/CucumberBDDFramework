@@ -1,9 +1,9 @@
-# PlanIT Jupiter Test
+# Cucumber BDD Framework using Selenium
 
 
 Description
 
-This framework is built for PlanIT Automation Test Assessment
+This hybrid framework is built with maven,BDD,Selenium,Testng & Java
 
 This project uses this framework jar dependency which is built on top of 
 . Testng as test framework 
